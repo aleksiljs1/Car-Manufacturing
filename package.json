@@ -1,0 +1,25 @@
+{
+  "name": "car-manifacturing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksiljs1/Car-Manufacturing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksiljs1/Car-Manufacturing/issues"
+  },
+  "homepage": "https://github.com/aleksiljs1/Car-Manufacturing#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.5.0"
+  }
+}
